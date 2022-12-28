@@ -25,7 +25,7 @@
       </property>
       
       <property name = "hibernate.connection.password">
-         123qeqwqppq@T
+         mypass
       </property>
       
       <!-- use create to create a table every time executing the code -->
